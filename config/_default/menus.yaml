@@ -1,0 +1,45 @@
+leftnav:
+- identifier: ccc2f063-d450-31de-3645-7b9a1c880ad5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6e98fa95-ed44-9ac7-809f-70fad94ac14e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: bc6d4057-fa72-8ef9-8ebb-a6e7d5f41704
+  name: Using Teaching Techniques to Engage Students
+  pageRef: /pages/instructor-insights/using-teaching-techniques-to-engage-students
+  parent: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
+  weight: 40
+- identifier: 373825c5-85b2-148c-9c10-6b519431c70d
+  name: Teaching Content Rooted in Real-World Contexts
+  pageRef: /pages/instructor-insights/teaching-content-rooted-in-real-world-contexts
+  parent: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
+  weight: 50
+- identifier: c1d6316a-ca85-2e30-0a8a-8195ad1525a2
+  name: Teaching Students with a Broad Range of Experiences
+  pageRef: /pages/instructor-insights/teaching-students-with-a-broad-range-of-experiences
+  parent: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
+  weight: 60
+- identifier: 82a3d45f-6363-0646-3a11-29f1ef81fd7e
+  name: "Students\u2019 Final Projects"
+  pageRef: /pages/instructor-insights/students2019-final-projects
+  parent: 1d31ff9a-2057-8b3e-61d4-bdbbd0ef00e0
+  weight: 70
+- identifier: bffdd2cd-73f3-c9cb-b06d-53dccca75d21
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: 829760a4-41f0-97c1-19f5-998b59d4a918
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 90
+- identifier: f58909f4-458b-f2ef-9f95-3e6179b19b2f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 100
