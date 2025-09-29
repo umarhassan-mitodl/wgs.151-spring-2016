@@ -48,7 +48,7 @@ None
 
 HASS ![](/images/educator/icon-question-hass.png)
 
-WGS.151 can be applied toward a {{% resource_link "f417a787-75ae-4d77-a02f-c68261a16e78" "Bachelor of Science in Humanities and Science" %}} or a {{% resource_link "89ce031b-4344-4baa-b58a-ceee3a242aee" "Bachelor of Science in Humanities and Engineering" %}}, but is not required.
+WGS.151 can be applied toward a [Bachelor of Science in Humanities and Science](http://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/humanities-science/) or a [Bachelor of Science in Humanities and Engineering](http://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/humanities-engineering/), but is not required.
 
 ### Offered
 

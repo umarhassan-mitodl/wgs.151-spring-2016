@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics and the lecture
   slides used for each session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
