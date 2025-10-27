@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, objectives, grading, texts, academic integrity,
   and the Writing and Communication Center at MIT.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -113,16 +111,16 @@ Texts
 
 No full texts are required for this course. However, the following text has many chapters of required reading:
 
-Fausto-Sterling, Anne. _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with [Google Books](http://books.google.com/books?id=AX4JepiTRy4C&printsec=frontcover)\]
+Fausto-Sterling, Anne. _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with {{% resource_link "8c98d910-798e-4d0b-9acd-fceb16abbc8b" "Google Books" %}}\]
 
 Additional readings can be found in the table of the {{% resource_link bffdd2cd-73f3-c9cb-b06d-53dccca75d21 "Readings" %}} section.
 
 Academic Integrity
 ------------------
 
-Please ensure you've reviewed [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
+Please ensure you've reviewed {{% resource_link "c7df96ff-7b7a-4ab6-a713-68dc1d776f91" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 Writing and Communication Support
 ---------------------------------
 
-The [Writing and Communication Center at MIT](http://cmsw.mit.edu/writing-and-communication-center/) offers free one-on-one professional advice about all types of writing and oral presentations.
+The {{% resource_link "c5e0bcf5-3721-4be0-bf3c-f3e018ba8193" "Writing and Communication Center at MIT" %}} offers free one-on-one professional advice about all types of writing and oral presentations.

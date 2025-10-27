@@ -5,8 +5,6 @@ description: This file contains information regarding Prospective Cohort Study t
 file: /courses/wgs-151-gender-health-and-society-spring-2016/57fdf0d397933e7482e4f3da797a94b7_MITWGS_151S16_Cohort.pdf
 file_size: 147868
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

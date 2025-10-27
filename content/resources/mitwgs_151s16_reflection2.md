@@ -4,8 +4,6 @@ description: This file contains information regarding Reading Reflections 2.
 file: /courses/wgs-151-gender-health-and-society-spring-2016/286688e99d1acd66b100e9dfe7755b32_MITWGS_151S16_Reflection2.pdf
 file_size: 110787
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

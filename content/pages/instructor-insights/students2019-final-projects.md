@@ -6,8 +6,6 @@ description: In this section, Dr. Brittany Charlton shares her insights about th
   knowledge to create a research proposal exploring a scientific question related
   to gender and health. Students create a 2-page write-up and share their research
   proposal as an oral presentation.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
